@@ -1,3 +1,2 @@
 rootProject.name = "MarsComponentDemo"
-include(":app")
 include(':library')
