@@ -1,2 +1,3 @@
 rootProject.name = "MarsComponentDemo"
 include(':library')
+include(':sublibrary')
