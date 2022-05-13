@@ -42,4 +42,5 @@ android {
 dependencies {
     implementation("androidx.appcompat:appcompat:1.4.1")
     implementation(project(":sublibrary"))
+    implementation(files("libs/publish-plugin-0.0.1-alpha.3.jar"))
 }
